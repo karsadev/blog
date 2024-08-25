@@ -1,4 +1,4 @@
-package basic.aritmatika;
+package basic;
 
 public class OperasiAritmatika {
     public static void main(String[] args) {
